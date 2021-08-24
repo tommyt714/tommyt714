@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tommyt714
 - 👀 I’m interested in software development and data analytics
-- 🌱 I’m currently learning Python, R, SQL, and other OOP languages
+- 🌱 I’m currently learning Python, JavaScript, SQL, and React
 - 💞️ I’m looking to collaborate on civic-minded, environmentally and socially beneficial projects
 - 📫 How to reach me: tommythompson714@gmail.com
 
